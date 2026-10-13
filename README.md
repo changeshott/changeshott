@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111218&height=180&section=header&text=changeshott&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=I%20build%20web%20products%20end%20to%20end.&descAlignY=60&descSize=18" width="100%" alt="changeshott banner" />
+<img src="assets/header.png" width="100%" alt="changeshott — I build web products end to end." />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Next.js+%C2%B7+Go+%C2%B7+PHP+%C2%B7+PostgreSQL;Informatics+Engineering+%40+Polinema;Open+to+internships+%26+collabs" alt="Typing SVG" /></a>
+<code>Full-Stack Developer · Next.js · Go · PHP · PostgreSQL · Open to internships &amp; collabs</code>
 
 <p>
   <a href="https://www.linkedin.com/in/zona-firman-maulana-3366253a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -87,6 +87,5 @@ One sentence: what problem it solves and for whom.
 
 📫 The fastest way to reach me: [LinkedIn](https://www.linkedin.com/in/zona-firman-maulana-3366253a0) or [email](mailto:changeshott@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111218&height=100&section=footer" width="100%" />
 
 </div>
