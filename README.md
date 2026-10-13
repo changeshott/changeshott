@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:22d3ee&height=180&section=header&text=changeshott&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=I%20build%20web%20products%20end%20to%20end.&descAlignY=60&descSize=18" width="100%" alt="changeshott banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111218&height=180&section=header&text=changeshott&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=I%20build%20web%20products%20end%20to%20end.&descAlignY=60&descSize=18" width="100%" alt="changeshott banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Next.js+%C2%B7+Go+%C2%B7+PHP+%C2%B7+PostgreSQL;Informatics+Engineering+%40+Polinema;Open+to+internships+%26+collabs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Next.js+%C2%B7+Go+%C2%B7+PHP+%C2%B7+PostgreSQL;Informatics+Engineering+%40+Polinema;Open+to+internships+%26+collabs" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/zona-firman-maulana-3366253a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -77,10 +77,10 @@ Satu kalimat: masalah apa yang diselesaikan & untuk siapa.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=changeshott&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changeshott&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=changeshott&show_icons=true&theme=dark&bg_color=111218&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changeshott&layout=compact&theme=dark&bg_color=111218&hide_border=true&langs_count=6" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=changeshott&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=changeshott&theme=dark&bg_color=111218&hide_border=true" />
 </div>
 
 ---
@@ -91,6 +91,6 @@ Satu kalimat: masalah apa yang diselesaikan & untuk siapa.
 
 📫 Cara tercepat menghubungi saya: [LinkedIn](https://www.linkedin.com/in/zona-firman-maulana-3366253a0) atau [email](mailto:jonafirmanmaulana01@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111218&height=100&section=footer" width="100%" />
 
 </div>
