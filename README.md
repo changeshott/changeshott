@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/zona-firman-maulana-3366253a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jonafirmanmaulana01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:changeshott@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -68,6 +68,7 @@ One sentence: what problem it solves and for whom.
 
 ---
 
+<!-- GitHub Stats are hidden until there are public repos with code (the cards render empty otherwise). Uncomment when ready.
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -76,6 +77,7 @@ One sentence: what problem it solves and for whom.
   <br/>
   <img src="https://streak-stats.demolab.com?user=changeshott&theme=dark&bg_color=111218&hide_border=true" />
 </div>
+-->
 
 ---
 
@@ -83,7 +85,7 @@ One sentence: what problem it solves and for whom.
 
 **Open to:** internships · freelance web projects · open-source collaboration
 
-📫 The fastest way to reach me: [LinkedIn](https://www.linkedin.com/in/zona-firman-maulana-3366253a0) or [email](mailto:jonafirmanmaulana01@gmail.com)
+📫 The fastest way to reach me: [LinkedIn](https://www.linkedin.com/in/zona-firman-maulana-3366253a0) or [email](mailto:changeshott@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=111218&height=100&section=footer" width="100%" />
 
