@@ -1,5 +1,3 @@
-<!-- Simpan file ini sebagai README.md di repo publik bernama changeshott/changeshott -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=111218&height=180&section=header&text=changeshott&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=I%20build%20web%20products%20end%20to%20end.&descAlignY=60&descSize=18" width="100%" alt="changeshott banner" />
@@ -8,7 +6,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/zona-firman-maulana-3366253a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://zona-firman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:jonafirmanmaulana01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -16,17 +13,17 @@
 
 ---
 
-### 👋 Hey, saya **changeshott** — a.k.a. Zona Firman Maulana
+### 👋 Hey, I'm **changeshott** — a.k.a. Zona Firman Maulana
 
-Full-stack developer dari Malang yang suka membangun produk web **dari database sampai pixel terakhir — lalu benar-benar di-ship.**
+A full-stack developer from Malang, Indonesia, who builds web products **from the database to the last pixel — and actually ships them.**
 
-- 🎓 Mahasiswa D4 Teknik Informatika @ Politeknik Negeri Malang
-- 🏫 Hampir 2 tahun sebagai Software Developer di SMK Islam Batu — membangun sistem yang dipakai langsung oleh sekolah
-- 🔨 Sedang menyiapkan proyek-proyek baru dari nol — stay tuned
-- 🌱 Sedang mendalami: Next.js, Go, dan desain database yang rapi
-- 💬 Ajak saya ngobrol soal: **web development, backend, dan clean code**
+- 🎓 Informatics Engineering student @ Politeknik Negeri Malang
+- 🏫 Almost 2 years as a Software Developer at SMK Islam Batu, building systems the school uses every day
+- 🔨 Starting fresh on a new set of projects — stay tuned
+- 🌱 Currently leveling up in Next.js, Go and clean database design
+- 💬 Ask me about **web development, backend and clean code**
 
-> *"Confusion Terminated."* — ubah masalah yang membingungkan jadi solusi yang jelas.
+> *"Confusion Terminated."* — turning confusing problems into clear solutions.
 
 ---
 
@@ -54,22 +51,19 @@ Full-stack developer dari Malang yang suka membangun produk web **dari database 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white" />
 </p>
-
-<!-- Hapus badge yang belum benar-benar kamu pakai. Recruiter lebih percaya daftar pendek yang jujur. -->
 
 ---
 
 ### 🌟 Featured Projects
 
-> 🚧 **Sedang dibangun.** Proyek-proyek baru akan tampil di sini — follow atau ⭐ repo saya untuk update.
+> 🚧 **Work in progress.** New projects will show up here soon — follow me or ⭐ my repos for updates.
 
-<!-- Saat proyek pertama siap, ganti blok di atas dengan kartu seperti ini:
-#### 🔹 [Nama Proyek](link-repo)
-Satu kalimat: masalah apa yang diselesaikan & untuk siapa.
+<!-- When your first project is ready, replace the block above with a card like this:
+#### 🔹 [Project Name](repo-link)
+One sentence: what problem it solves and for whom.
 `Next.js` `PostgreSQL` `Tailwind`
-[🌐 Live](link-demo) · [📦 Repo](link-repo)
+[🌐 Live](demo-link) · [📦 Repo](repo-link)
 -->
 
 ---
@@ -87,9 +81,9 @@ Satu kalimat: masalah apa yang diselesaikan & untuk siapa.
 
 <div align="center">
 
-**Terbuka untuk:** internship · freelance web project · kolaborasi open source
+**Open to:** internships · freelance web projects · open-source collaboration
 
-📫 Cara tercepat menghubungi saya: [LinkedIn](https://www.linkedin.com/in/zona-firman-maulana-3366253a0) atau [email](mailto:jonafirmanmaulana01@gmail.com)
+📫 The fastest way to reach me: [LinkedIn](https://www.linkedin.com/in/zona-firman-maulana-3366253a0) or [email](mailto:jonafirmanmaulana01@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=111218&height=100&section=footer" width="100%" />
 
